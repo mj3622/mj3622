@@ -1,7 +1,7 @@
 ## Hello👋
 [![Mail Badge](https://img.shields.io/badge/-minjer3622@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:minjer3622@gmail.com)](mailto:minjer3622@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="Pic/pusheencode.gif" />
 
 ### I'm Li Zhiwei
 
