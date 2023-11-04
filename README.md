@@ -5,10 +5,10 @@
 
 ### I'm Li Zhiwei
 
-- An Electronics and Information Engineering Undergraduate Student. & Open Source enthusiast.
+- An EIC Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in Wuhan, China.
-- ⭐ 
-- ⚡ Fun fact: Data Analysis📊
+- ⭐ Planning to learn Android
+- ⚡ Do someting interesting
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -27,6 +27,13 @@
 - [使用python编写的局域网聊天室](https://github.com/mj3622/MomoTalk)
 - [基于easyx和C++的2048小游戏](https://github.com/mj3622/2048)
 
+
+### 正在做的事
+- Emoprobe情感分析系统的后端开发
+- Android端的日志APP设计
+- 学习后端
+
+![Minjer's github stats](https://github-readme-stats.vercel.app/api/?username=mj3622&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
