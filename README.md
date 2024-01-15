@@ -17,16 +17,18 @@
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
+- [前后端分离的情感分析系统Emoprobe](https://github.com/pxxxl/Emoprobe)
 - [基于ADB和easyOCR的BlueArchive自动化助手](https://github.com/mj3622/AutoArchive)
 - [使用python编写的局域网聊天室](https://github.com/mj3622/MomoTalk)
 - [基于easyx和C++的2048小游戏](https://github.com/mj3622/2048)
-- [基于Nexys4 DDR开发板Verilog实现数字钟](https://github.com/mj3622/DIgitalClock_Design)
+
 
 
 ### 正在做的事
