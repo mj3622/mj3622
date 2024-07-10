@@ -3,7 +3,7 @@
 ---
 <img align="right" alt="GIF" src="Pic/pusheencode.gif" />
 
-### I'm Li Zhiwei
+### I'm Ziv Lee
 
 - An EIC Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in Wuhan, China.
