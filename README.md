@@ -3,7 +3,7 @@
 ---
 <img align="right" alt="GIF" src="Pic/pusheencode.gif" />
 
-### I'm Ziv Lee
+### I'm Zhiwei Li
 
 - An EIC Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in Wuhan, China.
@@ -14,7 +14,8 @@
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
+![
+Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
