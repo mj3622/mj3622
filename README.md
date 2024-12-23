@@ -29,16 +29,15 @@ Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)
 
 ### 开源项目
-- [前后端分离的情感分析系统Emoprobe](https://github.com/pxxxl/Emoprobe)
+- [轻小说EPUB下载器](https://github.com/mj3622/Wenku8Downloader)
+- [PicHub免费图床服务](https://github.com/mj3622/PicHub)
+- [情感分析系统Emoprobe](https://github.com/pxxxl/Emoprobe)
 - [智能家居系统安卓App](https://github.com/mj3622/SmartHomeApp)
-- [基于ADB和easyOCR的BlueArchive自动化助手](https://github.com/mj3622/AutoArchive)
-- [使用python编写的局域网聊天室](https://github.com/mj3622/MomoTalk)
 
 
 
 ### 正在做的事
-- 电商系统开发
-- Android端的日志APP设计
+- 开发基于uni-app的旅游规划系统
 - 学习Spring Cloud
 
 ![Minjer's github stats](https://github-readme-stats.vercel.app/api/?username=mj3622&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
