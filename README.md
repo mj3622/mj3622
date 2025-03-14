@@ -5,10 +5,8 @@
 
 ### I'm Zhiwei Li
 
-- An EIC Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently studying in Wuhan, China.
-- ⭐ Planning to study abroad
-- ⚡ Do someting interesting
+🌱 An EIC Undergraduate Student. & Open Source enthusiast.
+
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -28,7 +26,7 @@ Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 - :cloud: ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)
 
-### 开源项目
+### 开源项目 | Open Source Projects
 - [轻小说EPUB下载器](https://github.com/mj3622/Wenku8Downloader)
 - [PicHub免费图床服务](https://github.com/mj3622/PicHub)
 - [情感分析系统Emoprobe](https://github.com/pxxxl/Emoprobe)
@@ -36,9 +34,9 @@ Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 
 
 
-### 正在做的事
-- 开发基于uni-app的旅游规划系统
-- 学习Spring Cloud
+### 正在做的事 | Currently Working On
+- Developing a travel planning system based on uni-app
+- Learning Spring Cloud
 
 ![Minjer's github stats](https://github-readme-stats.vercel.app/api/?username=mj3622&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
