@@ -10,7 +10,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+- 💻 &#160; ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![
 Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
