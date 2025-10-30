@@ -28,7 +28,7 @@ Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 
 ### 开源项目 | Open Source Projects
 - [轻小说EPUB下载器](https://github.com/mj3622/Wenku8Downloader)
-- - [轻小说更新提醒](https://github.com/mj3622/NoveliaReminder)
+- [轻小说更新提醒](https://github.com/mj3622/NoveliaReminder)
 - [PicHub免费图床服务](https://github.com/mj3622/PicHub)
 - [情感分析系统Emoprobe](https://github.com/pxxxl/Emoprobe)
 - [智能家居系统安卓App](https://github.com/mj3622/SmartHomeApp)
