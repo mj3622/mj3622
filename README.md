@@ -36,9 +36,7 @@ Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 
 
 ### 正在做的事 | Currently Working On
-- Learning Spring Cloud
-
-![Minjer's github stats](https://github-readme-stats.vercel.app/api/?username=mj3622&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- Keep studying
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
