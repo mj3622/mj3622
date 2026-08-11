@@ -1,5 +1,5 @@
 ## Hello👋
-[![Mail Badge](https://img.shields.io/badge/-minjer3622@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:minjer3622@gmail.com)](mailto:minjer3622@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-minjer@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:minjer@foxmail.com)](mailto:minjer@foxmail.com)
 ---
 <img align="right" alt="GIF" src="Pic/pusheencode.gif" />
 
